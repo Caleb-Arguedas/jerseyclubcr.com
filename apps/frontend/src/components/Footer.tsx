@@ -45,7 +45,7 @@ export const Footer = () => {
             <h4 className="font-heading font-bold mb-4">Síguenos</h4>
             <div className="flex gap-4">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/jersey.clubcr?igsh=MW56enRvOGFvbmhtag%3D%3D&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gold transition-colors"
