@@ -1,0 +1,19 @@
+{
+  "name": "jerseyclubcr",
+  "version": "1.0.0",
+  "description": "Jersey Club CR - Tienda Online Profesional de Camisetas",
+  "private": true,
+  "workspaces": [
+    "apps/frontend",
+    "apps/backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces",
+    "build": "npm run build --workspaces",
+    "start": "npm start --workspaces",
+    "install-all": "npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

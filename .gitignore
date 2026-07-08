@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+dist/
+build/
+.next/
+out/
+*.log
+.vscode/
+.idea/
+coverage/
+.yarn
+yarn-error.log
+pnpm-debug.log
